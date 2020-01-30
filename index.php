@@ -17,8 +17,10 @@
 
         <div class="jumbotron jumbotron-fluid">
           <div class="container">
-            <h1>Missing Indent</h1>
+            <h1 class="display-4">Missing Indent</h1>
             <p class="lead">Wonderful world of web apps.</p>
+            <hr class="my-4">
+            <a class="btn btn-primary btn-lg" href="#" role="button">Click Me... nothing will happen!</a>
           </div>
         </div>
         
