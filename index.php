@@ -8,7 +8,7 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
 
-    <title>Hello World - V2.99</title>
+    <title>Hello World - V3</title>
   </head>
   <body>
   <br>
@@ -20,7 +20,7 @@
           <div class="container">
             <h1 class="display-4">Missing Indent</h1>
             <p class="lead">Wonderful world of web apps.</p>
-             <p class="lead">V2</p>
+             <p class="lead">V3</p>
             <hr class="my-4">
             <a class="btn btn-primary btn-lg" href="#" role="button">Click Me... nothing will happen!</a>
           </div>
